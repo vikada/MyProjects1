@@ -1,0 +1,37 @@
+#game {
+    background-color: bisque;
+}
+
+#rule {
+    position: absolute;
+    width: 300px;
+    height: 115px;
+    background-color: rgba(219, 179, 130, 0.664);
+    font-size: larger;  
+    font-style: italic;
+    top: 10px;
+    left: 450px;
+    border: 2px solid rgb(107, 8, 8);
+    color: rgb(161, 12, 12);   
+}
+
+#ruleGame {
+    color: rgb(73, 3, 3);
+    font-weight: 600;
+}
+
+#gameStart {
+    width: 400px;
+    height: 90px;
+    background-color: rgba(219, 179, 130, 0.664);
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    color: brown;
+    padding-top: 50px;
+}
+
+#time {
+    color: rgb(82, 9, 9);
+}
+
